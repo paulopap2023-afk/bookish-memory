@@ -1,8 +1,6 @@
 ![ScriptFiscal](banner.png)
 
-# 🚀 ScriptFiscal PDV 2026
-
-PROJETO NFe / NFCe COMPLETO
+# 🚀 PROJETO NFe / NFCe 2026
 
 Preparado para a Reforma Tributária 2026
 
