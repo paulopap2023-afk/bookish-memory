@@ -25,6 +25,22 @@ Projeto base para desenvolvimento de **sistemas comerciais e ERP**, com integra�
 
 ---
 
+## 🚀 Sistema Inteligente (Anti-Rejeição SEFAZ)
+
+Chega de perder tempo corrigindo NF rejeitada.
+
+O ScriptFiscal automatiza decisões fiscais críticas:
+
+🔹 Detecta automaticamente operações interestaduais  
+🔹 Aplica regras fiscais conforme a legislação vigente  
+🔹 Define CFOP correto sem intervenção manual  
+🔹 Calcula impostos com base no cenário real da operação  
+🔹 Minimiza erros e rejeições na SEFAZ  
+
+💡 Mais produtividade, menos dor de cabeça.
+
+---
+
 ## 🛒 PDV Completo
 
 ✔ Venda direta no **PDV**  
