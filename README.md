@@ -2,11 +2,11 @@
 
 # 🚀 ScriptFiscal PDV 2026
 
-SISTEMA NFe / NFCe COMPLETO
-
-Projeto Profissional em Scriptcase 9.x
+PROJETO NFe / NFCe COMPLETO
 
 Preparado para a Reforma Tributária 2026
+
+Projeto Profissional em Scriptcase 9.x
 
 Sistema completo de **NF-e / NFC-e + PDV** desenvolvido em **Scriptcase**.
 
