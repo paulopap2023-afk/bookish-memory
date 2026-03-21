@@ -176,6 +176,10 @@ Durante a importação o sistema pode:
 
 ---
 
+![NFe](danfe.png)
+
+---
+
 # 🎯 Ideal para
 
 ✔ Desenvolvedores **Scriptcase**  
