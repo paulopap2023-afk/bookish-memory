@@ -154,6 +154,28 @@ Durante a importação o sistema pode:
 
 ---
 
+## Tela da NFe
+
+![NFe](tela1.png)
+
+---
+
+![NFe](tela2.png)
+
+---
+
+![NFe](tela3.png)
+
+---
+
+![NFe](tela4.png)
+
+---
+
+![NFe](tela5.png)
+
+---
+
 # 🎯 Ideal para
 
 ✔ Desenvolvedores **Scriptcase**  
