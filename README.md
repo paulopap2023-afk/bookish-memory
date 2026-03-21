@@ -126,13 +126,13 @@ Durante a importação o sistema pode:
 
 ## Emissão de NFCe
 
-![NFCe](nfce.png)
+![NFCe](pdv3.png)
 
 ---
 
-## Controle de Caixa
+## Fechamento de NFCe
 
-![Caixa](caixa.png)
+![Caixa](pdv2.png)
 
 ---
 
