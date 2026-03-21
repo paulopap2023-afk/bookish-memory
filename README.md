@@ -150,7 +150,7 @@ Durante a importação o sistema pode:
 
 ## Cupom NFCe
 
-![Cupom](fiscal.png)
+![Cupom](cupom2.png)
 
 ---
 
