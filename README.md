@@ -1,4 +1,4 @@
-![ScriptFiscal](banner.png)
+![Gestoweb2026](banner.png)
 
 # 🚀 PROJETO NFe / NFCe 2026 - Código Fonte
 
@@ -29,7 +29,7 @@ Projeto base para desenvolvimento de **sistemas comerciais e ERP**, com integra�
 
 Chega de perder tempo corrigindo NF rejeitada.
 
-O ScriptFiscal automatiza decisões fiscais críticas:
+O Gestoweb2026 automatiza decisões fiscais críticas:
 
 🔹 Detecta automaticamente operações interestaduais  
 🔹 Aplica regras fiscais conforme a legislação vigente  
