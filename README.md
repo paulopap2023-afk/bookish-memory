@@ -116,6 +116,26 @@ Durante a importação o sistema pode:
 
 ---
 
+## 💼 Por que escolher o projeto erpweb2026?
+
+✔ Reduz erros e rejeições na SEFAZ  
+✔ Automatiza regras fiscais complexas  
+✔ Acelera o desenvolvimento de sistemas ERP  
+✔ Pronto para legislação atual e futura  
+✔ Estrutura profissional e escalável  
+
+---
+
+## 🏆 Diferenciais Técnicos
+
+✔ Emissão NFC-e síncrona sem travamentos  
+✔ Tratamento automático de rejeições  
+✔ Estrutura pronta para múltiplas empresas  
+✔ Histórico completo de XML e protocolos  
+✔ Arquitetura pronta para expansão (ERP)
+
+---
+
 # 🖥 Demonstração do Sistema
 
 ## Tela do PDV
