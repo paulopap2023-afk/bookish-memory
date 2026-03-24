@@ -52,7 +52,7 @@ O Gestoweb2026 automatiza decisões fiscais críticas:
 
 ✔ Venda direta no **PDV**  
 ✔ Emissão automática de **NFC-e**
-✔ Impressão direta em **impressoras térmicas ESC/POS**  
+✔ Impressão direta local em **impressoras térmicas ESC/POS**  
 ✔ Impressão de **QR Code da NFC-e**  
 ✔ Impressão de **logo no cabeçalho do cupom**  
 
