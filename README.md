@@ -27,7 +27,6 @@ Projeto base para desenvolvimento de **sistemas comerciais e ERP**, com integra�
 ✔ Emissão de **NFC-e (Cupom Fiscal Eletrônico)**  
 ✔ Comunicação direta com a **SEFAZ**  
 ✔ Cancelamento de documentos  
-✔ Inutilização de numeração  
 ✔ Geração e validação de **XML**
 
 ---
